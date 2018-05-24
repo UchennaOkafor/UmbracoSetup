@@ -8,7 +8,7 @@ This wiki was written for **Umbraco 7.10.4**
 
 ### Instllation
 ```
- PM > Install-Package UmbracoCms
+ PM> Install-Package UmbracoCms
 ```
 or go to NuGet and search for UmbracoCms and install. 
 Upon installation, unless you want to toy around and get to the grips with Umbraco, click the customize button which will let you setup connection strings for your database and also to opt out of installing with a sample website.
