@@ -69,3 +69,7 @@ Ensure Enable = true and ModelsMode =  LiveAppData. Live app data means the mode
 https://our.umbraco.org/Documentation/reference/templating/Modelsbuilder/Builder-Modes
 
 
+### Misc
+```
+Umbraco.TypedContent(Id).OfType<Type>();
+```
