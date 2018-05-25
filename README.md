@@ -70,6 +70,6 @@ https://our.umbraco.org/Documentation/reference/templating/Modelsbuilder/Builder
 
 
 ### Misc
-```
+``` CSharp
 Umbraco.TypedContent(Id).OfType<Type>();
 ```
